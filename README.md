@@ -14,6 +14,6 @@ vectorVcinco es una empresa de Diseño y Tenología en Puebla. Nos apasiona enco
 [logo-pinterest]: https://github.com/Darkade/huertito.com/raw/master/001-pinterest.png "Pinterest"
 
 ---
-<small>
+<span style="font-size:x-small">
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
-</small>
+</span>
