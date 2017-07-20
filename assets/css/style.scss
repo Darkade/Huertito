@@ -11,6 +11,11 @@
 
 .page-header .project-name {
   font-family: 'Amatic SC';
+  font-size: 60pt;
+}
+
+.page-header .project-tagline {
+  font-family: 'Source Code Pro', monospace;
 }
 
 .page-header {
@@ -19,4 +24,16 @@
 
 .site-footer {
   visibility: hidden;
+}
+
+.main-content {
+  font-family: 'Source Code Pro', monospace;
+}
+
+.main-content h2 {
+  font-family: 'Amatic SC'
+}
+
+.main-content h3 {
+  font-family: 'Amatic SC'
 }
