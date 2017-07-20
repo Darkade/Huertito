@@ -1,4 +1,4 @@
-## Siguenos en nuestras redes sociales
+## Síguenos en nuestras redes sociales
 
 [![Instagram][logo-instagram]](https://instagram.com/vectorvcinco)
 [![Facebook][logo-facebook]](https://facebook.com/vectorvcinco)
@@ -6,7 +6,7 @@
 [![Pinterest][logo-pinterest]](http://pinterest.com/vectorvcinco)
 ### vectorVcinco
 
-vectorVcinco es una empresa de Diseño y Tenología en Puebla. Nos apasiona encontrar problemas de la vida diaria de nuestros usuarios y desarrollar productos y soluciones que se adapten a ellos. Para nosotros el usuario es lo más importante.
+vectorVcinco es una empresa de Diseño y Tenología en Puebla. Nos apasiona encontrar problemas en la vida diaria de nuestros usuarios para desarrollar productos y soluciones que se adapten a ellos. Para nosotros el usuario es lo más importante.
 
 [logo-facebook]: https://github.com/Darkade/huertito.com/raw/master/static/images/002-facebook.png "Facebook"
 [logo-instagram]: https://github.com/Darkade/huertito.com/raw/master/static/images/003-instagram.png "Instagram"
