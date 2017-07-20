@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Source+Code+Pro');
+
+.page-header .btn {
+  visibility: hidden;
+}
+
+.page-header .project-name {
+  font-family: 'Amatic SC';
+}
+
+.page-header {
+  background-color: #00fdc8;
+}
+
+.site-footer {
+  visibility: hidden;
+}
